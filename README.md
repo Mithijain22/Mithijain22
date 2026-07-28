@@ -1,19 +1,17 @@
 <div align="center">
 
-<!-- Banner: use your Ghibli-style scenery image here (the grassy hill / cloud one works great).
-     Upload it to an `assets/` folder in this repo, then swap the URL below with its raw GitHub link.
-     Keep any character in the scene small/silhouette-scale — it's a mood detail, not the focus. -->
-<img src="https://your-image-link-here.com/banner.png" width="100%" alt="banner"/>
+<!-- Header wave banner — forest-green gradient, your tagline rendered on it -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A9C9A4,50:6FA96F,100:4C7A4C&height=230&section=header&text=Hi,%20I'm%20Mithi&fontSize=42&fontAlignY=36&fontColor=ffffff&animation=fadeIn&desc=and%20I'm%20figuring%20things%20out%20in%20code&descAlignY=55&descSize=18&descColor=ffffff" width="100%" alt="banner"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=6FA96F&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mithi+%F0%9F%8D%83;CSE+%40+VIT+Bhopal+%7C+Backend+%26+Systems;Building+quietly%2C+like+a+forest+spirit+%F0%9F%8C%B1" alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=6FA96F&center=true&vCenter=true&width=600&lines=CSE+%40+VIT+Bhopal+%F0%9F%8C%B1;Currently+building+a+DDPM+diffusion+model+%F0%9F%8C%BE;Backend+%26+distributed+systems+enthusiast+%E2%98%81%EF%B8%8F" alt="typing animation" />
 
 </div>
 
 <br/>
 
-## 🌿 about me
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=6FA96F&height=40&section=header&text=%F0%9F%8C%BF%20about%20me&fontSize=22&fontColor=6FA96F&fontAlignY=70" width="60%" alt="about me"/>
+</div>
 
 I'm a CSE undergrad at **VIT Bhopal** who likes building systems that actually get stress-tested before I call them done — distributed systems, backend architecture, and the occasional detour into ML.
 
@@ -26,19 +24,18 @@ I care more about a project surviving a chaos test than looking clean in a demo 
 
 <br/>
 
-## 🍃 featured projects
-
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=6FA96F&height=40&section=header&text=%F0%9F%8D%83%20featured%20projects&fontSize=22&fontColor=6FA96F&fontAlignY=70" width="60%" alt="featured projects"/>
 
 🚀 = Complete &nbsp;&nbsp;|&nbsp;&nbsp; 🏗️ = In Progress
-
 </div>
 
 <br/>
 
 **🚀 [Sentinel](https://github.com/Mithijain22/Sentinel) — Real-Time Fraud Detection & Response Platform**
 Event-driven Kafka pipeline sustaining ~1,200 events/sec with 0% feature-mismatch rate (down from 6.4%), 94% fraud-burst detection at 1.8% false-positive rate, ~180ms p50 decision latency.
-`Java` `Spring Boot` `Kafka` `PostgreSQL` `AWS` `Terraform` `Docker` `GitHub Actions` `OpenTelemetry` `Prometheus` `Grafana`
+
+<img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,aws,docker&theme=light" height="32"/>
 
 <details>
 <summary>see details</summary>
@@ -54,7 +51,8 @@ Event-driven Kafka pipeline sustaining ~1,200 events/sec with 0% feature-mismatc
 
 **🚀 [Chronos](https://github.com/Mithijain22/Chronos) — Distributed Job Scheduler (Raft, from scratch)**
 Raft consensus implemented from scratch in pure Java 17, zero external dependencies. 13/13 chaos-harness checks passed across a real 5-node, multi-process cluster with zero committed-job loss.
-`Java 17` `Multithreading` `Raft Consensus` `Distributed Systems` `Fault Tolerance`
+
+<img src="https://skillicons.dev/icons?i=java&theme=light" height="32"/>
 
 <details>
 <summary>see details</summary>
@@ -70,7 +68,8 @@ Raft consensus implemented from scratch in pure Java 17, zero external dependenc
 
 **🚀 [RL-Based Kubernetes Autoscaler](https://github.com/Mithijain22/rl-kubernetes-autoscaler) — PPO vs. Baseline HPA**
 A research-style RL autoscaler benchmarked against real HPA behavior, with a full 8-seed statistical audit — including two self-caught methodology bugs and an honestly-reported negative result.
-`Python` `PyTorch` `Stable-Baselines3` `Gymnasium` `NumPy` `Pandas`
+
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=light" height="32"/>
 
 <details>
 <summary>see details</summary>
@@ -90,7 +89,8 @@ Built to test whether a PPO agent that learns traffic patterns can out-scale Kub
 
 **🚀 [Intelligent Java Cache](https://github.com/Mithijain22/Intelligent-Java-Cache) — Multithreaded Adaptive Caching Library**
 From-scratch concurrent cache (LRU, LFU, ARC, TinyLFU) sustaining 4M+ ops/sec under 16-thread load with zero data corruption; adaptive layer auto-switches to the best-performing policy live.
-`Java 17` `ReentrantLock` `Count-Min Sketch` `Spring Boot` `WebSocket` `JUnit`
+
+<img src="https://skillicons.dev/icons?i=java,spring&theme=light" height="32"/>
 
 <details>
 <summary>see details</summary>
@@ -106,7 +106,8 @@ From-scratch concurrent cache (LRU, LFU, ARC, TinyLFU) sustaining 4M+ ops/sec un
 
 **🚀 [NovelTea](https://github.com/Mithijain22/NovelTea) — Book Discovery & Recommendation Platform**
 Full-stack app with JWT auth and AI-grounded recommendations; cut cached API latency from ~300–800ms to ~1ms with Caffeine caching.
-`Java` `Spring Boot` `Spring Security` `React` `PostgreSQL` `Docker`
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,postgres,docker&theme=light" height="32"/>
 
 <details>
 <summary>see details</summary>
@@ -121,7 +122,8 @@ Full-stack app with JWT auth and AI-grounded recommendations; cut cached API lat
 
 **🏗️ [From-Scratch Diffusion Model (DDPM)](https://github.com/Mithijain22/diffusion-project) — In Progress**
 A denoising diffusion probabilistic model built from scratch in PyTorch — no `diffusers` library, no pretrained pipeline — including the forward noising process, a custom U-Net with timestep embeddings, and the reverse sampling loop.
-`Python` `PyTorch` `U-Net` `Diffusion Models`
+
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=light" height="32"/>
 
 <details>
 <summary>see details</summary>
@@ -135,32 +137,21 @@ A denoising diffusion probabilistic model built from scratch in PyTorch — no `
 
 <br/>
 
-## 🌤️ tech stack
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=6FA96F&height=40&section=header&text=%F0%9F%8C%A4%EF%B8%8F%20tech%20stack&fontSize=22&fontColor=6FA96F&fontAlignY=70" width="60%" alt="tech stack"/>
+</div>
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-6FA96F?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-87CEEB?style=for-the-badge&logo=python&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring_Boot-A9C9A4?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-87CEEB?style=for-the-badge&logo=react&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-6FA9C9?style=for-the-badge&logo=pytorch&logoColor=white)
-<br/>
-![AWS](https://img.shields.io/badge/AWS-A9C9A4?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-87CEEB?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-6FA96F?style=for-the-badge&logo=terraform&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-444444?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-6FA9C9?style=for-the-badge&logo=kubernetes&logoColor=white)
-<br/>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6FA96F?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-87CEEB?style=for-the-badge&logo=mysql&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-A9C9A4?style=for-the-badge&logo=grafana&logoColor=white)
-![GitHubActions](https://img.shields.io/badge/GitHub_Actions-6FA9C9?style=for-the-badge&logo=githubactions&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,spring,react,pytorch,aws,docker,terraform,kafka,kubernetes,postgres,mysql,grafana,githubactions&theme=light" />
 
 </div>
 
 <br/>
 
-## 🌾 github stats
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=6FA96F&height=40&section=header&text=%F0%9F%8C%BE%20github%20stats&fontSize=22&fontColor=6FA96F&fontAlignY=70" width="60%" alt="github stats"/>
+</div>
 
 <div align="center">
 
@@ -175,7 +166,9 @@ A denoising diffusion probabilistic model built from scratch in PyTorch — no `
 
 <br/>
 
-## 🌱 let's connect
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=6FA96F&height=40&section=header&text=%F0%9F%8C%B1%20let's%20connect&fontSize=22&fontColor=6FA96F&fontAlignY=70" width="60%" alt="let's connect"/>
+</div>
 
 <div align="center">
 
@@ -194,3 +187,5 @@ A denoising diffusion probabilistic model built from scratch in PyTorch — no `
 *"Whenever someone creates something with all of their heart, then that creation is given a soul."* — Hayao Miyazaki
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C7A4C,50:6FA96F,100:A9C9A4&height=120&section=footer" width="100%" alt="footer"/>
