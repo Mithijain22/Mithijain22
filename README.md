@@ -1,38 +1,41 @@
 <div align="center">
 
-<!-- Header wave banner — forest-green gradient, your tagline rendered on it -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A9C9A4,50:6FA96F,100:4C7A4C&height=230&section=header&text=Hi,%20I'm%20Mithi&fontSize=42&fontAlignY=36&fontColor=ffffff&animation=fadeIn&desc=and%20I'm%20figuring%20things%20out%20in%20code&descAlignY=55&descSize=18&descColor=ffffff" width="100%" alt="banner"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=6FA96F&center=true&vCenter=true&width=600&lines=CSE+%40+VIT+Bhopal+%F0%9F%8C%B1;Currently+building+a+DDPM+diffusion+model+%F0%9F%8C%BE;Backend+%26+distributed+systems+enthusiast+%E2%98%81%EF%B8%8F" alt="typing animation" />
+<img src="https://raw.githubusercontent.com/Mithijain22/Mithijain22/main/banner-header-final-v4.gif" width="100%" alt="banner"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=6FA96F&height=40&section=header&text=%F0%9F%8C%BF%20about%20me&fontSize=22&fontColor=6FA96F&fontAlignY=70" width="60%" alt="about me"/>
+
+🌳 = Complete&nbsp;&nbsp;&nbsp;&nbsp;🌱 = Still Growing
+
 </div>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Mithijain22/Mithijain22/main/icon-leaf.png" width="32" valign="middle"/> about me
 
 I'm a CSE undergrad at **VIT Bhopal** who likes building systems that actually get stress-tested before I call them done — distributed systems, backend architecture, and the occasional detour into ML.
 
 I care more about a project surviving a chaos test than looking clean in a demo — you'll notice a lot of what I build gets deliberately broken before I trust it.
 
 - 🔭 Currently building: a from-scratch **DDPM diffusion model** in PyTorch
-- 🌱 Background: healthcare backend systems (real-time video consults, prescription APIs) during my internship at Apiero Medica
+- 🌾 Background: healthcare backend systems (real-time video consults, prescription APIs) during my internship at Apiero Medica
 - ⚙️ Comfort zone: Java/Spring Boot backends, distributed systems, Kafka pipelines, and the AWS/Terraform/Docker stack around them
 - ☁️ Fun fact: I've caught more bugs from chaos-testing my own systems than from anyone else's code review
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=6FA96F&height=40&section=header&text=%F0%9F%8D%83%20featured%20projects&fontSize=22&fontColor=6FA96F&fontAlignY=70" width="60%" alt="featured projects"/>
-
-🚀 = Complete &nbsp;&nbsp;|&nbsp;&nbsp; 🏗️ = In Progress
+<img src="https://raw.githubusercontent.com/Mithijain22/Mithijain22/main/divider-treeline.jpg" width="100%" alt="divider"/>
 </div>
 
 <br/>
 
-**🚀 [Sentinel](https://github.com/Mithijain22/Sentinel) — Real-Time Fraud Detection & Response Platform**
+## <img src="https://raw.githubusercontent.com/Mithijain22/Mithijain22/main/icon-tree.png" width="32" valign="middle"/> featured projects
+
+**🌳 [Sentinel](https://github.com/Mithijain22/Sentinel) — Real-Time Fraud Detection & Response Platform**
 Event-driven Kafka pipeline sustaining ~1,200 events/sec with 0% feature-mismatch rate (down from 6.4%), 94% fraud-burst detection at 1.8% false-positive rate, ~180ms p50 decision latency.
 
 <img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,aws,docker&theme=light" height="32"/>
@@ -49,7 +52,7 @@ Event-driven Kafka pipeline sustaining ~1,200 events/sec with 0% feature-mismatc
 
 <br/>
 
-**🚀 [Chronos](https://github.com/Mithijain22/Chronos) — Distributed Job Scheduler (Raft, from scratch)**
+**🌳 [Chronos](https://github.com/Mithijain22/Chronos) — Distributed Job Scheduler (Raft, from scratch)**
 Raft consensus implemented from scratch in pure Java 17, zero external dependencies. 13/13 chaos-harness checks passed across a real 5-node, multi-process cluster with zero committed-job loss.
 
 <img src="https://skillicons.dev/icons?i=java&theme=light" height="32"/>
@@ -66,7 +69,7 @@ Raft consensus implemented from scratch in pure Java 17, zero external dependenc
 
 <br/>
 
-**🚀 [RL-Based Kubernetes Autoscaler](https://github.com/Mithijain22/rl-kubernetes-autoscaler) — PPO vs. Baseline HPA**
+**🌳 [RL-Based Kubernetes Autoscaler](https://github.com/Mithijain22/rl-kubernetes-autoscaler) — PPO vs. Baseline HPA**
 A research-style RL autoscaler benchmarked against real HPA behavior, with a full 8-seed statistical audit — including two self-caught methodology bugs and an honestly-reported negative result.
 
 <img src="https://skillicons.dev/icons?i=python,pytorch&theme=light" height="32"/>
@@ -87,7 +90,7 @@ Built to test whether a PPO agent that learns traffic patterns can out-scale Kub
 
 <br/>
 
-**🚀 [Intelligent Java Cache](https://github.com/Mithijain22/Intelligent-Java-Cache) — Multithreaded Adaptive Caching Library**
+**🌳 [Intelligent Java Cache](https://github.com/Mithijain22/Intelligent-Java-Cache) — Multithreaded Adaptive Caching Library**
 From-scratch concurrent cache (LRU, LFU, ARC, TinyLFU) sustaining 4M+ ops/sec under 16-thread load with zero data corruption; adaptive layer auto-switches to the best-performing policy live.
 
 <img src="https://skillicons.dev/icons?i=java,spring&theme=light" height="32"/>
@@ -104,7 +107,7 @@ From-scratch concurrent cache (LRU, LFU, ARC, TinyLFU) sustaining 4M+ ops/sec un
 
 <br/>
 
-**🚀 [NovelTea](https://github.com/Mithijain22/NovelTea) — Book Discovery & Recommendation Platform**
+**🌳 [NovelTea](https://github.com/Mithijain22/NovelTea) — Book Discovery & Recommendation Platform**
 Full-stack app with JWT auth and AI-grounded recommendations; cut cached API latency from ~300–800ms to ~1ms with Caffeine caching.
 
 <img src="https://skillicons.dev/icons?i=java,spring,react,postgres,docker&theme=light" height="32"/>
@@ -120,7 +123,7 @@ Full-stack app with JWT auth and AI-grounded recommendations; cut cached API lat
 
 <br/>
 
-**🏗️ [From-Scratch Diffusion Model (DDPM)](https://github.com/Mithijain22/diffusion-project) — In Progress**
+**🌱 [From-Scratch Diffusion Model (DDPM)](https://github.com/Mithijain22/diffusion-project) — Still Growing**
 A denoising diffusion probabilistic model built from scratch in PyTorch — no `diffusers` library, no pretrained pipeline — including the forward noising process, a custom U-Net with timestep embeddings, and the reverse sampling loop.
 
 <img src="https://skillicons.dev/icons?i=python,pytorch&theme=light" height="32"/>
@@ -138,8 +141,12 @@ A denoising diffusion probabilistic model built from scratch in PyTorch — no `
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=6FA96F&height=40&section=header&text=%F0%9F%8C%A4%EF%B8%8F%20tech%20stack&fontSize=22&fontColor=6FA96F&fontAlignY=70" width="60%" alt="tech stack"/>
+<img src="https://raw.githubusercontent.com/Mithijain22/Mithijain22/main/divider-flowers.jpg" width="100%" alt="divider"/>
 </div>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Mithijain22/Mithijain22/main/icon-cloud.png" width="32" valign="middle"/> tech stack
 
 <div align="center">
 
@@ -149,9 +156,7 @@ A denoising diffusion probabilistic model built from scratch in PyTorch — no `
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=6FA96F&height=40&section=header&text=%F0%9F%8C%BE%20github%20stats&fontSize=22&fontColor=6FA96F&fontAlignY=70" width="60%" alt="github stats"/>
-</div>
+## <img src="https://raw.githubusercontent.com/Mithijain22/Mithijain22/main/icon-wheat.png" width="32" valign="middle"/> github stats
 
 <div align="center">
 
@@ -166,15 +171,13 @@ A denoising diffusion probabilistic model built from scratch in PyTorch — no `
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=6FA96F&height=40&section=header&text=%F0%9F%8C%B1%20let's%20connect&fontSize=22&fontColor=6FA96F&fontAlignY=70" width="60%" alt="let's connect"/>
-</div>
+## <img src="https://raw.githubusercontent.com/Mithijain22/Mithijain22/main/icon-sprout.png" width="32" valign="middle"/> let's connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-87CEEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mithi-jain-856825330)
-[![Email](https://img.shields.io/badge/Email-6FA96F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithijain220405@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-A9C9A4?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/Mithijain22/Mithijain22/blob/main/Mithi_Jain_Resume.pdf)
+[<img src="https://raw.githubusercontent.com/Mithijain22/Mithijain22/main/badge-linkedin.png" height="50"/>](https://linkedin.com/in/mithi-jain-856825330)
+[<img src="https://raw.githubusercontent.com/Mithijain22/Mithijain22/main/badge-email.png" height="50"/>](mailto:mithijain220405@gmail.com)
+[<img src="https://raw.githubusercontent.com/Mithijain22/Mithijain22/main/badge-resume.png" height="50"/>](https://github.com/Mithijain22/Mithijain22/blob/main/Mithi_Jain_Resume.pdf)
 
 **🌤️ Open to SDE / backend / systems opportunities**
 
@@ -188,4 +191,8 @@ A denoising diffusion probabilistic model built from scratch in PyTorch — no `
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C7A4C,50:6FA96F,100:A9C9A4&height=120&section=footer" width="100%" alt="footer"/>
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Mithijain22/Mithijain22/main/banner-footer.jpg" width="100%" alt="footer"/>
+</div>
