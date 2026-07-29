@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mithijain22/Mithijain22/main/banner-header-final-v4.gif" width="100%" alt="banner"/>
+<img src="https://raw.githubusercontent.com/Mithijain22/Mithijain22/main/banner-header-final-v5.gif" width="100%" alt="banner"/>
 
 </div>
 
@@ -26,10 +26,6 @@ I care more about a project surviving a chaos test than looking clean in a demo 
 - ☁️ Fun fact: I've caught more bugs from chaos-testing my own systems than from anyone else's code review
 
 <br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Mithijain22/Mithijain22/main/divider-treeline.jpg" width="100%" alt="divider"/>
-</div>
 
 <br/>
 
@@ -140,10 +136,6 @@ A denoising diffusion probabilistic model built from scratch in PyTorch — no `
 
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Mithijain22/Mithijain22/main/divider-flowers.jpg" width="100%" alt="divider"/>
-</div>
-
 <br/>
 
 ## <img src="https://raw.githubusercontent.com/Mithijain22/Mithijain22/main/icon-cloud.png" width="32" valign="middle"/> tech stack
@@ -186,13 +178,5 @@ A denoising diffusion probabilistic model built from scratch in PyTorch — no `
 <br/>
 
 <div align="center">
-
-*"Whenever someone creates something with all of their heart, then that creation is given a soul."* — Hayao Miyazaki
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Mithijain22/Mithijain22/main/banner-footer.jpg" width="100%" alt="footer"/>
+<img src="https://raw.githubusercontent.com/Mithijain22/Mithijain22/main/banner-footer-quote.jpg" width="100%" alt="footer"/>
 </div>
