@@ -152,12 +152,12 @@ A denoising diffusion probabilistic model built from scratch in PyTorch — no `
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mithijain22&show_icons=true&theme=default&hide_border=true&title_color=6FA96F&icon_color=87CEEB&text_color=444444&bg_color=00000000" width="48%" alt="stats"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Mithijain22&show_icons=true&theme=default&hide_border=true&title_color=6FA96F&icon_color=87CEEB&text_color=444444&bg_color=00000000" width="48%" alt="stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mithijain22&theme=default&hide_border=true&background=00000000&ring=6FA96F&fire=87CEEB&currStreakLabel=6FA96F" width="48%" alt="streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithijain22&layout=compact&theme=default&hide_border=true&title_color=6FA96F&text_color=444444&bg_color=00000000" width="45%" alt="top languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mithijain22&layout=compact&theme=default&hide_border=true&title_color=6FA96F&text_color=444444&bg_color=00000000" width="45%" alt="top languages"/>
 
 </div>
 
